@@ -16,11 +16,11 @@ These instructions will get you a copy of the project up and running on your loc
 * To install and run this project you need as requirements:
 - Java JDK and JRE - Java 8 or a Higher version
 - Maven - Maven 2 or a Higher version
-* you can find the project front with following link : https://github.com/MelanieB74/PFinalAngular
+* you can find the project front with following link : https://github.com/MelanieB74/ProjetEscapLife_FrontFinal
 
 ## Settings ##
 To download the project, clone it from github using the next command:
-$ git clone https://github.com/MelanieB74/ProjetFinal.git
+$ git clone https://github.com/MelanieB74/ProjetEscapLife_BackFinal.git
 
 ## Running the tests ##
 Navigate to code editor:
