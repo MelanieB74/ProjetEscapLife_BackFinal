@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="ProjetFinal_CentreLoisirs_EscapLife">
+<!-- <class>com.model.ActBowling </class>
+<class>com.model.ActCreche</class>
+<class>com.model.ActEscapeGame</class>
+<class>com.model.ActLaserGame</class> -->
+<class>com.model.Client</class>
+<class>com.model.ClientEntreprise</class>
+<class>com.model.Employe</class>
+<!--  <class>com.model.Reservation</class>-->
+<class>com.model.Role</class>
+<class>com.model.Utilisateur</class>
+<class>com.model.Personne</class>
+        
+    </persistence-unit>
+</persistence>
